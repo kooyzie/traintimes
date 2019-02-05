@@ -1,3 +1,3 @@
 # traintimes
 
-git clone https:github.com/teejK/raspberryTrainTimes.git
+$ git clone https:github.com/teejK/raspberryTrainTimes.git
